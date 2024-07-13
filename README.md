@@ -2,7 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Shivansh+Vikram+Singh!;" />
 </h1>
 <h4 align="center">Explore my work on my <a href="https://shivansh090.github.io/" target="_black">Portfolio 🌱.</a></h4>
-    
+    <h2 align="center">Leetcode Info<h2>
+
+  
+<p align="center">
+  <a href="https://leetcode.com/shivansh_vikram_singh/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="180" width="180" /></a>
+  <a href="https://leetcode.com/shivansh_vikram_singh/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="180" width="180" /></a>
+  <a href="https://leetcode.com/shivansh_vikram_singh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="180" width="180" /></a>
+  <a href="https://leetcode.com/shivansh_vikram_singh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="180" width="180" /></a>
+</p>
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shivansh_vikram_singh?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 ### 🌞 About me :
  - 🎓 Sophomore at **Indian Institute of Information Technology, Bhopal**
  - 🔭 I’m currently working on **MERN PROJECTS**
