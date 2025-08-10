@@ -4,7 +4,7 @@
 <h4 align="center">Explore my work on my <a href="https://shivanshdev.vercel.app/" target="_blank">Portfolio 🌱</a>.</h4>
 
 ### 🌞 About Me
-- 🎓 Sophomore at **Indian Institute of Information Technology, Bhopal**
+- 🎓 **Indian Institute of Information Technology, Bhopal (2022-2026)**
 - 💼 SDE Intern at **Cashfree Payments**
 - 🤖 Currently building **Agent2Agent systems, MCP Servers, and AI Flows** (mainly in **TypeScript**)
 - 🌐 Experienced in **Full Stack MERN Development** and **Machine Learning**
