@@ -5,7 +5,7 @@
 
 ### 🌞 About Me
 - 🎓 **Indian Institute of Information Technology, Bhopal (2022-2026)**
-- 💼 SDE Intern at **Cashfree Payments**
+- 💼 Engineering at **Cashfree Payments**
 - 🤖 Currently building **Agent2Agent systems, MCP Servers, and AI Flows** (mainly in **TypeScript**)
 - 🌐 Experienced in **Full Stack MERN Development** and **Machine Learning**
 - 🤝 Open to collaborating on **AI, Agentic Flows, and Full Stack projects**
